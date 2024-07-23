@@ -1,3 +1,6 @@
 This is mqod's file.
 
 parsa is charging his laptop.
+
+if mqod != parsa:
+    conflict()
