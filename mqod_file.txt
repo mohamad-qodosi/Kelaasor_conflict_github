@@ -1,1 +1,4 @@
 This is mqod's file.
+
+if mqod != parsa:
+    conflict()
